@@ -1,2 +1,3 @@
 # Project-
-just a web project
+My first project on git hub
+I like chocolate
